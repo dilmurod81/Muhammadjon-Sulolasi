@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Muhammadjon Sulolasi veb sahifasiga hush kelibsiz
 
-You can use the [editor on GitHub](https://github.com/dilmurod81/FamilyTree/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sahifamizda oilamizning shajarasiga oid ma'lumotlarni topasiz
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Muhammadjon va Anorahonlarning turmushi
 
-### Markdown
+### Dilshod + Munira
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dilorom + Botir
+
+### Dilmurod + Khadija
+
+### Dildora + Botir
 
 ```markdown
 Syntax highlighted code block
